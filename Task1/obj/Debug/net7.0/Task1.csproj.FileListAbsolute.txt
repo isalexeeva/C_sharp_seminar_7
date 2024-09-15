@@ -1,0 +1,14 @@
+D:\Разработчик\GB\C_sharp\Practice\HW_to_practice\HW_seminar_7\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработчик\GB\C_sharp\Practice\HW_to_practice\HW_seminar_7\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+D:\Разработчик\GB\C_sharp\Practice\HW_to_practice\HW_seminar_7\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+D:\Разработчик\GB\C_sharp\Practice\HW_to_practice\HW_seminar_7\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+D:\Разработчик\GB\C_sharp\Practice\HW_to_practice\HW_seminar_7\Task1\bin\Debug\net7.0\Task1.exe
+D:\Разработчик\GB\C_sharp\Practice\HW_to_practice\HW_seminar_7\Task1\bin\Debug\net7.0\Task1.deps.json
+D:\Разработчик\GB\C_sharp\Practice\HW_to_practice\HW_seminar_7\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+D:\Разработчик\GB\C_sharp\Practice\HW_to_practice\HW_seminar_7\Task1\bin\Debug\net7.0\Task1.dll
+D:\Разработчик\GB\C_sharp\Practice\HW_to_practice\HW_seminar_7\Task1\bin\Debug\net7.0\Task1.pdb
+D:\Разработчик\GB\C_sharp\Practice\HW_to_practice\HW_seminar_7\Task1\obj\Debug\net7.0\Task1.dll
+D:\Разработчик\GB\C_sharp\Practice\HW_to_practice\HW_seminar_7\Task1\obj\Debug\net7.0\refint\Task1.dll
+D:\Разработчик\GB\C_sharp\Practice\HW_to_practice\HW_seminar_7\Task1\obj\Debug\net7.0\Task1.pdb
+D:\Разработчик\GB\C_sharp\Practice\HW_to_practice\HW_seminar_7\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+D:\Разработчик\GB\C_sharp\Practice\HW_to_practice\HW_seminar_7\Task1\obj\Debug\net7.0\ref\Task1.dll
